@@ -86,3 +86,9 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+## Project Secrets
+Project secrets which are included in the .env_file are listed below as recommended by the reviewer
+
+1. JWT_SECRET='myjwtsecret'
+2. LOG_LEVEL=DEBUG
